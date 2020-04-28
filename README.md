@@ -1,7 +1,7 @@
-<h1><a href:"https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ">视频教程</a>
+<h1><a href:"https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ">视频教程</a></h1>
   https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ
 
-<h2>以下命令复制时不要使用任何翻译状态，否则会出错 </h2>
+<h2>以下命令复制时不要使用任何翻译状态，否则会出错 点击下列标题可转到单个教程</h2>
   
   <ul>
 						<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0">安装命令v2ray</a>：bash <(curl -s -L https://raw.githubusercontent.com/zwz1018/zwz1018/master/v2ray.sh)</li>
