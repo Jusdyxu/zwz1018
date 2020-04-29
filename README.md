@@ -9,3 +9,7 @@
 						<li><a href="https://www.youtube.com/watch?v=n9mSZhvtxoA&t=181s">安装trojian</a>: bash -c "$(curl -fsSL https://raw.githubusercontent.com/zwz1018/zwz1018/master/trojan-tls-nginx.sh)"</li>
 						<li><a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0&t=13s">bbr加速</a>：wget --no-check-certificate -O bbr.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh</li>
 					</ul>
+
+
+
+<a href="https://www.youtube.com/watch?v=tU3sJ7vt0l0">安装命令<img src="tu/Ssrwan.jpg">v2ray</a>：bash <(curl -s -L https://raw.githubusercontent.com/zwz1018/zwz1018/master/v2ray.sh)
