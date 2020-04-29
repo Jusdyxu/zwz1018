@@ -1,4 +1,4 @@
-<h1 color:"red"><a href="https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ">视频教程<img src="tu/youtube.jpg"></a></h1>
+<h1 color:red ><a href="https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ">视频教程<img src="tu/youtube.jpg"></a></h1>
   https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ
 
 <h2>以下命令复制时不要使用任何翻译状态，否则会出错 点击下列标题可转到单个教程</h2>
