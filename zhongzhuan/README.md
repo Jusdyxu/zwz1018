@@ -74,15 +74,14 @@ CentOS 7默认的防火墙是防火墙，要使用本脚本，请先卸载或关
 
 ### 提示wget：未知主机“ raw.githubusercontent.com”之类的错误
 这是无法解析我的域名，多半是DNS的问题，请更换DNS为谷歌DNS。
-echo -e "nameserver 8.8.8.8\nnameserver 8.8.4.4" > /etc/resolv.conf
+<p>echo -e "nameserver 8.8.8.8\nnameserver 8.8.4.4" > /etc/resolv.conf</p>
 
 ### 提示wget：找不到命令的错误
 这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。
  <p>Centos系统:</p><br>
-
 <p>yum install -y wget</p><br>
-<p>Debian/Ubuntu系统:</p><br>
 
+<p>Debian/Ubuntu系统:</p><br>
 apt-get install -y wget
 
 ### 更换aptsource，解决安装错误：[错误] iptables安装失败等等
