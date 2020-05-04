@@ -78,10 +78,10 @@ echo -e "nameserver 8.8.8.8\nnameserver 8.8.4.4" > /etc/resolv.conf
 
 ### 提示wget：找不到命令的错误
 这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。
- Centos系统:
+ <p>Centos系统:</p><br>
 
-yum install -y wget
-Debian/Ubuntu系统:
+<p>yum install -y wget</p><br>
+<p>Debian/Ubuntu系统:</p><br>
 
 apt-get install -y wget
 
