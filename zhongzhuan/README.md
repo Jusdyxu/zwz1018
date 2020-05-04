@@ -1,3 +1,6 @@
+ #  视频教程<a href="https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ"><img src="../../tu/youtube.jpg"></a> 
+## https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ
+
  ### 系统要求
 Centos / Debian / Ubuntu 14.04以上
 ### 推荐Debian / Ubuntu，这个是我一直使用的系统，我的脚本在这个系统上面出错率最低。
