@@ -1,4 +1,4 @@
-#  视频教程:<a href="https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ?sub_confirmation=1"><img src="tu/youtube.jpg">逍遥观世界</a>
+#  视频教程:<a href="https://www.youtube.com/channel/UC2t8e5Yffkyy2ncXVaxHOhQ?sub_confirmation=1"><img src="tu/youtube.jpg">点击订阅逍遥观世界</a>
 
 <h2>以下命令复制时不要使用任何翻译状态，否则会出错 点击下列标题可转到单个教程</h2>
   
