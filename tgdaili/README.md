@@ -19,7 +19,7 @@ bash tg.sh stop
  
  查看配置
  
- cd /home/mtproxy
+ cd /home/tg
  
  
  bash tg 
