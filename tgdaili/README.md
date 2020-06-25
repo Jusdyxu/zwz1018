@@ -1,32 +1,32 @@
 ## 代码1：mkdir /home/mtproxy && cd /home/mtproxy
-## 代码2：curl -s -o tg.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/tgdaili/tg.sh && chmod +x tg.sh && bash tg.sh
+## 代码2：curl -s -o mtproxy.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/tgdaili/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
  使用方式
  运行服务
  
- bash tg.sh start
+ bash mtproxy.sh start
  
  调试运行
  
- bash tg.sh debug
+ bash mtproxy.sh debug
  
  停止服务
 
-bash tg.sh stop
+bash mtproxy.sh stop
 
 重启服务
  
- bash tg.sh restart
+ bash mtproxy.sh restart
  
  查看配置
  
- cd /home/tg
+ cd /home/mtproxy
  
  
- bash tg 
+ bash mtproxy
  
  卸载安装
 
-rm -rf /home/tg
+rm -rf /home/mtproxy
  
  
  意外情况解决方法
