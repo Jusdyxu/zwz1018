@@ -1,5 +1,6 @@
-##安装慢
-
+## 安装慢
+代码：bash <(curl -s -L https://raw.githubusercontent.com/zwz1018/zwz1018/master/v2ray/install.sh)
+ 
  启动方式
 
  启动 V2ray：systemctl start v2ray
