@@ -1,5 +1,12 @@
-## 代码1：mkdir /home/mtproxy && cd /home/mtproxy
-## 代码2：curl -s -o mtproxy.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/tgdaili/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+## 获取 server：
+     apt install curl
+     head -c 16 /dev/urandom | xxd -ps
+     
+
+## 代码1：
+   mkdir /home/mtproxy && cd /home/mtproxy
+## 代码2：
+    curl -s -o mtproxy.sh https://raw.githubusercontent.com/zwz1018/zwz1018/master/tgdaili/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
  使用方式
 
 运行服务
