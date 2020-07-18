@@ -436,7 +436,7 @@ start_menu(){
     red " *请不要有其他程序占用80和443端口"
     red " *若是第二次使用脚本，请先执行卸载trojan"
     green " *更多内容YouTube搜索：逍遥观世界 "
-    green " 次脚本引用与网络"
+    green " *此脚本引用与网络"
     green " ======================================="
     echo
     green " 1. 安装trojan"
