@@ -437,6 +437,7 @@ start_menu(){
     red " *若是第二次使用脚本，请先执行卸载trojan"
     green " *此脚本引用与网络 "
     green " ======================================="
+    
     green " *更多内容YouTube搜索：逍遥观世界 "
     echo
     green " 1. 安装trojan"
